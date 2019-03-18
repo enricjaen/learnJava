@@ -1,9 +1,3 @@
-/*
-* (C) Copyright 2010-2017 Nexmo Inc. All Rights Reserved.
-* These materials are unpublished, proprietary, confidential source code of
-* Nexmo Inc and constitute a TRADE SECRET of Nexmo Inc.
-* Nexmo Inc retains all titles to an intellectual property rights in these materials.
-*/
 package concurrency;
 
 import java.util.Random;
